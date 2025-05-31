@@ -1,7 +1,7 @@
 # TMO_6sem
 Репозиторий по "Технологиям машинного обучения" 3 курс МГТУ
 
-## Лабораторная работа №1: Разведочный анализ данных
+## [Лабораторная работа №1: Разведочный анализ данных](./lab1)
 
 **Тема:** Исследование и визуализация данных  
 **Датасет:** [Titanic Dataset](https://www.kaggle.com/datasets/brendan45774/test-file?resource=download)
@@ -32,4 +32,4 @@ import matplotlib.pyplot as plt
 sns.set(style="ticks")
 ```
 
-[lab1](./lab1)
+
